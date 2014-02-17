@@ -1,5 +1,9 @@
 /**
+ * @file HashExample.java
  * Examlpe implementtion of Hashing.java
+ *
+ * @author Paul Gibbons
+ * @date Created: Spring 2014
  */
 import java.util.Random;
 public class HashExample
